@@ -1,0 +1,30 @@
+[
+    {
+        "title": "The platform",
+        "subtitle": "Angular 18 FTW!",
+        "image": "img/miscImages/Nashua.jpg",
+        "intro": "I decided to use angular to show off some of the various tricks it can do. One of the plans is to use HTTPclient to read some JSON data from a service. This will be an interesting exersise in reading data from external sources.",
+        "notes": [
+            {
+                "note": "I created a service called JasonService and referenced it in the app.component.ts (We are working with standalone components now, so there will not be a app.module.ts anymore."
+            },
+            {
+                "note": "from there I used the built in HTTPClient component to read from a json file and then used *ngfor loops to iterate through the json files."
+            }
+        ]
+    },
+    {
+        "title": "Theming the site",
+        "subtitle": "a few thoughts on the design choices I am making",
+        "image": "img/miscImages/Nashua.jpg",
+        "intro": "placeholder text",
+        "notes": [
+            {
+                "note": "placeholder"
+            },
+            {
+                "note": "placeholder"
+            }
+        ]
+    }
+]
