@@ -1,3 +1,9 @@
+PATH
+  remote: classymartys-theme
+  specs:
+    classymartys (0.1.0)
+      jekyll (~> 4.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -97,6 +103,7 @@ PLATFORMS
   x86_64-darwin
 
 DEPENDENCIES
+  classymartys!
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
   jekyll-feed (~> 0.12)
