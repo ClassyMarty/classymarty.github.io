@@ -22,8 +22,8 @@ title: Classy Marty's site
 email: ultrawyrm@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   There is no awesome description just yet...
-baseurl: "https://classymarty.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://classymarty.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  classymarty
 
