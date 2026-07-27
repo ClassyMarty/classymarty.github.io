@@ -1,0 +1,22 @@
+{
+  "title": "About This Site",
+  "subtitle": "Classy Marty — built with Angular 22, Material M3, and a pinch of magic ✨",
+  "sections": [
+    {
+      "heading": "The Stack",
+      "content": "Built with Angular 22 and Angular Material 3 (M3) with a warm orange theme generated from themes.angular-material.dev. The honeycomb background and bee favicon are a nod to the 'Classy' brand — bees are efficient, organized, and get the job done. Hosted on GitHub Pages with a custom 404.html redirect trick so refreshing any route doesn't give you a 404."
+    },
+    {
+      "heading": "The Poor Man's CMS",
+      "content": "No database, no backend, no API keys to rotate. Just JSON files in the public/data/ folder. A ContentService fetches them via HTTP at runtime, and Angular renders the data into components using signals and @for loops. Want to update your resume? Edit resume.json, push, done. It's the simplest CMS in the world — a text editor and a git push. Perfect for a personal site that doesn't need a full CMS but doesn't want hardcoded HTML either."
+    },
+    {
+      "heading": "The Evolution",
+      "content": "This site started as flat HTML/CSS back in 2025 (classy-site-2025), graduated to Angular 18 (classy-site), got a modern rebuild with Angular 21 + Material 3 (classysite2026), and is now consolidated into this Angular 22 version. Each iteration taught me something new about Angular, component architecture, and the joy of watching a JSON file turn into a fully styled page."
+    },
+    {
+      "heading": "The JSON-Driven Pages",
+      "content": "Resume data lives in public/data/resume.json — experience, education, skills, projects, all in clean JSON. The component loops over it with @for, rendering MatCards with company logos, responsibilities lists, and section headers. No templates to update when you land a new job. Just add an entry to the JSON array."
+    }
+  ]
+}

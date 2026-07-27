@@ -1,0 +1,18 @@
+{
+  "title": "BearOut",
+  "subtitle": "From the bakkie to the cloud — empowering the tiny SMME",
+  "sections": [
+    {
+      "heading": "The Dream",
+      "content": "There's a whole world of small businesses out there running off a single laptop, a bakkie, and sheer grit. Field staff with clipboards, admin staff chasing paper trails, compliance living in a spreadsheet on one person's machine. One hard drive failure and the business stops. BearOut is the project that changes that — giving the smallest of SMEs a cloud backbone without the enterprise price tag or complexity."
+    },
+    {
+      "heading": "What It Does",
+      "content": "BearOut takes the business off that single device and into the cloud. Field staff log jobs, capture data, and sync from anywhere — no office required. Admin staff get real-time visibility, automated compliance tracking, and workflows that don't need a spreadsheet wizard. The bakkie becomes a mobile office, not a single point of failure."
+    },
+    {
+      "heading": "The Stack",
+      "content": "Built with Angular 22 and Angular Material 3 on the frontend, a FastAPI Python backend on the server, and PostgreSQL 16 for data — running on a Contabo VPS. It's a modern full-stack architecture designed to be lightweight enough for a tiny business but scalable enough to grow with them. Role-based access control keeps field staff, admin, and owners in their own lanes."
+    }
+  ]
+}

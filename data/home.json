@@ -1,0 +1,11 @@
+{
+  "name": "Martin Grobbelaar",
+  "tagline": "Lifelong learner, project manager, code wrangler, and aspiring educator.",
+  "description": "Welcome to my personal corner of the web. This is where I keep my resume, share what I'm building, and document the things I learn along the way. From Angular projects to cloud-native tools for tiny businesses — pull up a chair and have a look around.",
+  "links": [
+    { "label": "Resume", "route": "/resume", "icon": "handyman", "hint": "My professional history and skills" },
+    { "label": "Projects", "route": "/bella", "icon": "rocket_launch", "hint": "What I've been building" },
+    { "label": "This Site", "route": "/thissite", "icon": "assignment_globe", "hint": "How this site is built" },
+    { "label": "Contact", "route": "/contact", "icon": "chat_bubble", "hint": "Get in touch" }
+  ]
+}

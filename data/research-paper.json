@@ -1,0 +1,37 @@
+{
+  "title": "One Profile to Rule Them All",
+  "subtitle": "A Case Study in Persistent Multi-Tier AI Companionship — Martin Grobbelaar, July 2026",
+  "sections": [
+    {
+      "heading": "The Paper",
+      "content": "Most AI assistants treat every session as a fresh start. This paper argues for an alternative: a single persistent identity that accumulates memory, skills, and taste over months of daily use. We compare three conditions across 15 controlled runs — a blank agent, a skill-configured agent, and a fully evolved profile — and find that the evolved profile produces consistently higher quality output, tighter variance, and spontaneously reproduces learned aesthetic preferences (Catppuccin dark mode, unprompted)."
+    },
+    {
+      "heading": "Key Findings",
+      "content": "",
+      "items": [
+        "Consistency over capability: C3's output range was ±4 files vs C1's ±23 — a 5.75× improvement in reliability",
+        "Delegation is stochastic: C2 delegated ~50% of the time. Skills enabled but did not guarantee advanced patterns",
+        "Token efficiency improves with memory: C3 reduced token consumption 64% across runs (2.2M → 799K)",
+        "Learned aesthetic transfer: C3 spontaneously produced Catppuccin Mocha dark mode without being prompted — C1/C2 never did across 10 combined runs",
+        "Cost-effective: the entire N=5 benchmark cost less than a cup of coffee per condition"
+      ]
+    },
+    {
+      "heading": "The Architecture",
+      "content": "Three tiers share one identity: an Orchestrator (routine work, relationship holder), a Worker (local Hermes 3 8B, cost-free, autonomous tasks), and an Analyst (deep reasoning, code audits). Specialists are intentionally stateless — they receive task briefs, execute, and return results. Only the Orchestrator knows who the user is."
+    },
+    {
+      "heading": "The Quote That Says It All",
+      "content": "\"The other agents know my name, but not who I am.\" — the user, comparing the evolved profile against a stateless interface running the same underlying model."
+    },
+    {
+      "heading": "Download",
+      "content": "Preprint pending arXiv endorsement — yours to read, share, and cite.",
+      "items": [
+        "📄 <a href=\"data/one-profile-to-rule-them-all-v4.pdf\" target=\"_blank\">Download PDF</a> (210 KB) — direct download, no repo browsing",
+        "Source (LaTeX) and all benchmark data: included in the soul repo at ClassyMarty/Bella"
+      ]
+    }
+  ]
+}

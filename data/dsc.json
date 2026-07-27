@@ -1,0 +1,29 @@
+{
+  "title": "DSC — Discite Computatrum Scientia",
+  "subtitle": "Computer science education that doesn't need a computer.",
+  "sections": [
+    {
+      "heading": "The Why",
+      "content": "There are millions of kids in South Africa and across the developing world who will never touch a computer in a classroom. But computational thinking — decomposition, pattern recognition, abstraction, algorithms — doesn't need a screen. It needs a teacher who knows how to play the right games. DSC is a curriculum of unplugged activities: board games, card games, group challenges, storytelling, and physical movement. No computers required, every concept sticks."
+    },
+    {
+      "heading": "The Vision",
+      "content": "Years ago I wrote that every child should learn computer science, not to become a programmer, but to become a creator — someone who understands the logic behind the tools they use, rather than just consuming whatever tech hands them. That philosophy hasn't aged a day. DSC is the practical manifestation of that idea: a full lesson plan series for Grades R through 1, built for the reality of South African classrooms where a teacher's creativity matters more than a computer lab budget."
+    },
+    {
+      "heading": "What's Coming",
+      "content": "lesson plans that a teacher can pick up and run with in 30 minutes, no training needed",
+      "items": [
+        "A Magic Forest board game that teaches sequencing and conditionals through storytelling",
+        "Complete Grade 1 and Grade R term plans mapped to the SA CAPS curriculum",
+        "Teacher training materials — because the best unplugged lesson falls flat if the facilitator isn't confident",
+        "Assessment frameworks that measure computational thinking without a written test",
+        "A community contribution model so other educators can adapt and share their own lessons"
+      ]
+    },
+    {
+      "heading": "Stay Tuned",
+      "content": "I'm rebuilding, updating, and expanding this project from the ground up. Six years of new ideas, deeper understanding of how kids learn, and — honestly — a much better sense of what actually works in a real classroom. The early materials were promising. The next iteration is going to be something I'm genuinely proud to put my name on."
+    }
+  ]
+}

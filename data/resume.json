@@ -1,0 +1,152 @@
+{
+  "name": "Martin Grobbelaar",
+  "email": "ultrawyrm@gmail.com",
+  "objective": "A lifelong learner and versatile professional with over 25 years of experience, transitioning from technical support to project management with a core focus on skills transfer, training, and empowering people. Proven ability to manage complex, large-scale international projects, develop educational curricula, and foster collaborative environments across diverse teams and cultures. Passionate about applying deep technical and project management expertise to develop talent and facilitate knowledge sharing within dynamic organizations.",
+  "experience": [
+    {
+      "company": "Freelancing",
+      "role": "Freelance tutor and content developer",
+      "years": "2016 to present",
+      "image": "",
+      "description": "Design and deliver tailored educational programs for international institutions and private clients.",
+      "responsibilities": [
+        "Design and deliver tailored educational programs for international institutions (ABC360-China, TuSpeaking-Spain, English Ninjas-Turkey) and private clients, specializing in adaptable learning solutions.",
+        "Develop comprehensive curricula, including an extensive English program for China's YEWES Group, focused on practical application and measurable skill development.",
+        "Tutor diverse subjects including A-Levels/GCSE Mathematics & Physics, foundation mathematics, and English (IELTS, Business, Technical)."
+      ]
+    },
+    {
+      "company": "Infinite Property Management",
+      "role": "Managing Agent",
+      "years": "2011 - 2016",
+      "image": "/companies/IPM.jpeg",
+      "description": "Managed a portfolio of 40+ sectional title buildings, overseeing annual budgets, legal compliance, and all stakeholder communications.",
+      "responsibilities": [
+        "Managed a portfolio of 40+ sectional title buildings, overseeing annual budgets, legal compliance, and all stakeholder communications.",
+        "Facilitated and chaired AGM and trustee meetings, ensuring governance aligned with the Sectional Titles Act.",
+        "Led maintenance projects and served as a primary mediator for conflict resolution between residents, tenants, and owners."
+      ]
+    },
+    {
+      "company": "eThekwini Municipality",
+      "role": "Support Analyst",
+      "years": "2005 - 2011",
+      "image": "/companies/Ethekwini_CoA.png",
+      "description": "Provided advanced technical support and troubleshooting for municipal information systems.",
+      "responsibilities": [
+        "Provided advanced technical support and troubleshooting for municipal information systems.",
+        "Key Projects: Successfully executed the library PC deployment and VOC establishment projects.",
+        "Trained and mentored two junior learners, equipping them with foundational IT skills."
+      ]
+    },
+    {
+      "company": "Teraoka SA",
+      "role": "Verification Officer",
+      "years": "2003 - 2005",
+      "image": "/companies/teraoka.png",
+      "description": "Installed, serviced, calibrated, and verified weighing instruments and integrated POS networks.",
+      "responsibilities": [
+        "Installed, serviced, calibrated, and verified weighing instruments and integrated POS networks as a certified officer.",
+        "Provided frontline technical and sales support, contributing to hardware connectivity solutions."
+      ]
+    },
+    {
+      "company": "Sagem, Nigeria",
+      "role": "State Technical Coordinator",
+      "years": "2002 - 2003",
+      "image": "/companies/Sagem.png",
+      "description": "Led state-level coordination, training, and management for the national biometric project.",
+      "responsibilities": [
+        "Led the state-level coordination, training, and management for the national biometric project."
+      ]
+    },
+    {
+      "company": "Picture Perfect Studio",
+      "role": "Desktop Operator",
+      "years": "1999 - 2002",
+      "image": "",
+      "description": "Maintained Apple Mac systems and provided technical support for digital photography workflows.",
+      "responsibilities": [
+        "Maintained Apple Mac systems and provided technical support for digital photography workflows.",
+        "Executed high-end photo editing with Adobe Photoshop and managed client relationships and sales."
+      ]
+    },
+    {
+      "company": "Nashua Durban",
+      "role": "Workshop Technician",
+      "years": "1997 - 1999",
+      "image": "/companies/Nashua.jpg",
+      "description": "Repaired and maintained office automation equipment.",
+      "responsibilities": [
+        "Repaired and maintained office automation equipment (computers, photocopiers, faxes).",
+        "Pioneered and operated a remote diagnostics desk to resolve software issues efficiently."
+      ]
+    }
+  ],
+  "education": [
+    { "qualification": "BSc in Computer Science (Final Year Completion Expected 2026)", "institution": "University of the People", "year": "2026" },
+    { "qualification": "Associate of Science Achieved", "institution": "University of the People", "year": "2026" },
+    { "qualification": "Diploma in Cognitive Behavioral Therapy", "institution": "Centre of Excellence", "year": "2023" },
+    { "qualification": "Google Project Management: Specialization", "institution": "Coursera", "year": "2023" },
+    { "qualification": "Certificate in Full Stack Development - Frontends with Bootstrap", "institution": "Coursera", "year": "2022" },
+    { "qualification": "120-Hour TEFL Certificate", "institution": "Cambridge", "year": "2018" },
+    { "qualification": "CCNA (Routing & Switching)", "institution": "IT Intellect", "year": "2010" },
+    { "qualification": "Microsoft Certified Professional (MCP)", "institution": "Microsoft", "year": "2008" },
+    { "qualification": "Matriculation Exemption", "institution": "Gelofte Hoer School", "year": "1997" }
+  ],
+  "skills": [
+    {
+      "category": "Project & Event Management",
+      "items": [
+        "Large-Scale Coordination",
+        "Budgeting & Financial Oversight",
+        "Stakeholder Engagement",
+        "AGM Facilitation",
+        "Full Project Lifecycle"
+      ]
+    },
+    {
+      "category": "Training & Capacity Building",
+      "items": [
+        "Curriculum Development",
+        "Technical & Soft Skills Training",
+        "Cross-Cultural Communication",
+        "Mentoring",
+        "Skills Transfer Methodology"
+      ]
+    },
+    {
+      "category": "Technical Proficiency",
+      "items": [
+        "Hardware/Software Troubleshooting",
+        "Network Configuration (CCNA)",
+        "System Deployment & Maintenance",
+        "IT Support"
+      ]
+    },
+    {
+      "category": "Relationship & Operations Management",
+      "items": [
+        "Conflict Resolution",
+        "People Management (teams of 670+)",
+        "Client Relations",
+        "Portfolio Management",
+        "Process Optimization"
+      ]
+    }
+  ],
+  "keyProjects": [
+    {
+      "name": "Kwa Mashu Africa Festival (2012)",
+      "description": "Coordinated logistics, partnerships, and marketing (including key artwork creation) for a major fundraising concert headlined by Ray Phiri, successfully managing an event for an audience exceeding 100,000 people."
+    },
+    {
+      "name": "National Biometric Project, Nigeria (2002-2003)",
+      "description": "Spearheaded a national-scale training and deployment initiative across four states. Recruited, trained, and managed 670 local personnel on biometric systems, establishing a streamlined hierarchical management structure for sustained operations."
+    },
+    {
+      "name": "Municipal IT Infrastructure Rollout (2009-2010)",
+      "description": "Managed the end-to-end setup and deployment of 250+ PCs across public libraries and led the implementation of the Venue Operations Centre (VOC) at Moses Mabhida Stadium. Directly mentored and trained two junior learners, equipping them with foundational IT skills that launched their professional careers."
+    }
+  ]
+}
