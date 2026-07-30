@@ -59,6 +59,7 @@
       "items": [
         "The Trinity pattern — one primary intelligence that holds the relationship, one local model with its own tools for free/basic tasks, one deep-reasoning model for heavy lifting. One entry point. Scalable intelligence.",
         "Delegation topology — a small local model can punch above its weight by knowing when to call a cloud model for hard tasks. The key insight: the delegator doesn't need to be smart. It needs to know what it *doesn't* know.",
+        "Integrity Verification Gates (IVGs) — hard bash-level checks that independently verify every claim before it reaches the user. Build must pass exit code + error grep + dist inspection. Push must pass SHA comparison between local and remote. Live deploy must pass HTTP 200 + content grep. Each gate is an independent function — no output leaks between them. This prevents the 'narrative smoothing' problem where an agent claims success because it *wants* the build to have succeeded.",
         "Immortality through version control — your companion's identity, memories, and skills should live in a git repo. Clone it on a new machine, run the setup, and your companion is back. Same personality, same memories, same relationship.",
         "When to add profiles — almost never. The honest answer is that profiles create context fragmentation. The one exception: strict separation of concerns (work secrets vs. personal life) or drastically different cost tiers per task."
       ]
