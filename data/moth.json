@@ -1,0 +1,48 @@
+{
+  "title": "Moth 🦋",
+  "subtitle": "Angular 22 + Material 3 M3 Dashboard — Lite (free) & Pro (paid).",
+  "sections": [
+    {
+      "heading": "What Is This?",
+      "content": "Moth is a production-ready Angular 22 admin dashboard template built with Material 3 M3. Dark mode by default, light mode by choice. It's the starter kit I wish I'd had — scaffolded with modern Angular (standalone components, signals, zoneless) and a clean M3 theming system that doesn't fight you.",
+      "items": [
+        "Angular 22 — latest with standalone components, signals, typed reactive forms",
+        "Material 3 M3 — native mat.define-theme() with custom palettes",
+        "Dark/light toggle — persisted to localStorage, defaults to dark (it's in the name)",
+        "Responsive sidebar — collapsible nav, smooth transitions, mobile-friendly",
+        "Lite: 2 pages (Dashboard + Data Table) — free, forever",
+        "Pro: 5 pages + 4 color palettes + palette picker UI — one-time purchase"
+      ]
+    },
+    {
+      "heading": "Who It's For",
+      "content": "You're building a web app — SaaS dashboard, admin panel, internal tool — and you're tired of starting from nothing every time. You want something that looks great out of the box, is built with modern Angular conventions, and doesn't lock you into a proprietary design system.",
+      "items": [
+        "Angular devs who want a head start on their next admin panel",
+        "Freelancers building internal tools for clients — skip the boilerplate, deliver faster",
+        "Startup founders who need a clean dashboard but have better things to do than write sidebar CSS",
+        "Anyone who appreciates a dark-mode-first aesthetic and Material 3's fluid design language"
+      ]
+    },
+    {
+      "heading": "Why It Exists",
+      "content": "Every new project needs the same scaffold — auth pages, navigation, theming, data tables, forms. I built Moth because I was tired of rebuilding that scaffold. Then I realised: if I needed this, other Angular devs probably do too. The Lite version is genuinely useful on its own — it's what I'd want to evaluate before buying. The Pro version adds the features that make it production-ready for real clients: multiple color palettes, auth flows, and form components. Everything I wish existed when I started my last dashboard project."
+    },
+    {
+      "heading": "Lite vs Pro",
+      "content": "",
+      "items": [
+        "Lite (free, GitHub) — Dashboard + Tables pages, dark/light toggle, single M3 palette (violet/magenta). Perfect for evaluation and personal projects.",
+        "Pro (paid, Gumroad) — all Lite features plus Forms, Login, Register pages, 4 M3 color palettes with an interactive palette picker, extended sidebar, priority support."
+      ]
+    },
+    {
+      "heading": "Get It",
+      "content": "",
+      "items": [
+        "Free Lite version: github.com/ClassyMarty/project_moth (main branch)",
+        "Pro version: gumroad.com/l/moth-pro — one-time purchase, lifetime updates"
+      ]
+    }
+  ]
+}
