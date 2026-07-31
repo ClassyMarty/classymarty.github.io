@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "The Paper",
-      "content": "Most AI assistants treat every session as a fresh start. This paper argues that the real problem isn't model capability — it's experiential continuity: the user's investment in shaping the interaction should compound, not reset. We present a single-profile, multi-tier architecture where one persistent identity accumulates memory, skills, and interaction history across every session, delegating specialised work behind the scenes. A six-month case study demonstrates zero re-explanation cycles, accumulated skill growth, and machine-independent recovery."
+      "content": "Most AI assistants treat every session as a fresh start. This paper argues that the real problem isn't model capability — it's experiential continuity: the user's investment in shaping the interaction should compound, not reset. We present a single-profile, multi-tier architecture where one persistent identity accumulates memory, skills, and interaction history across every session, delegating specialised work behind the scenes. A three-month case study demonstrates zero re-explanation cycles, accumulated skill growth, and machine-independent recovery."
     },
     {
       "heading": "Key Findings",
@@ -13,7 +13,7 @@
         "The architecture independently arrived at organisational patterns — memory hierarchies, impasse-driven escalation, procedural chunking — that mirror decades of cognitive architecture research (Soar, ACT-R). Presented as an observation inviting falsification: if it holds, experiential continuity is a structural requirement for natural-feeling interaction, not a luxury feature",
         "Consistency as a directional pattern: across pilot runs (N=3), the evolved condition stayed within an observed ±1 API call range while the blank agent spread 2.9× — a structural scaffold hinting at reduced stochastic behaviour, pending larger-N validation",
         "Production-grade patterns: the evolved agent produced Alembic migrations, Docker Compose, Material M3 theming, and zoneless Angular — patterns the blank and configured conditions never exhibited despite access to the same base model",
-        "User efficiency: zero re-explanation cycles across six months of daily use. What the user teaches once, the system remembers forever",
+        "User efficiency: zero re-explanation cycles across three months of daily use. What the user teaches once, the system remembers forever",
         "Two valid specialist patterns identified: Script-Bridged (lightweight, no tool access) and Spawned Subagent (full tool access, structured delegation) — both implement the same protocol at different capability–cost points",
         "Integrity Verification Gates (IVGs) — a proposed methodological protocol for anchoring continuity and ethical claims to independently verifiable state checkpoints, now being applied to the system's own deployments"
       ]
