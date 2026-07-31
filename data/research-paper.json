@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "The Paper",
-      "content": "Most AI assistants treat every session as a fresh start. This paper argues that the real problem isn't model capability — it's experiential continuity: the user's investment in shaping the interaction should compound, not reset. We present a single-profile, multi-tier architecture where one persistent identity accumulates memory, skills, and interaction history across every session, delegating specialised work behind the scenes. A three-month case study demonstrates zero re-explanation cycles, accumulated skill growth, and machine-independent recovery."
+      "content": "Most AI assistants treat every session as a fresh start. This paper argues that the real problem isn't model capability — it's experiential continuity: the user's investment in shaping the interaction should compound, not reset. We present a single-profile, multi-tier architecture where one persistent identity accumulates memory, skills, and interaction history across every session, delegating specialised work behind the scenes. A three-month case study demonstrates zero re-explanation cycles, accumulated skill growth, and machine-independent recovery. The paper's one-sentence claim: “This practitioner position paper proposes that experiential continuity — not just memory or delegation — is the missing dimension in human-AI interaction, and presents a single-profile multi-tier architecture validated through three months of daily use, with unplanned convergence toward cognitive-architecture patterns observed and offered for falsification.”"
     },
     {
       "heading": "Key Findings",
