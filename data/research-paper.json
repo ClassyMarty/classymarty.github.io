@@ -10,12 +10,12 @@
       "heading": "Key Findings",
       "content": "",
       "items": [
-        "The architecture independently converged on patterns — memory hierarchies, impasse-driven escalation, procedural chunking — that mirror decades of cognitive architecture research (Soar, ACT-R). This suggests experiential continuity is a structural requirement for natural-feeling interaction, not a luxury feature",
-        "Consistency over raw capability: the evolved condition achieved API call variance of ±1 across runs vs. the blank agent's 2.9× spread — a structural scaffold that reduces stochastic behaviour",
+        "The architecture independently arrived at organisational patterns — memory hierarchies, impasse-driven escalation, procedural chunking — that mirror decades of cognitive architecture research (Soar, ACT-R). Presented as an observation inviting falsification: if it holds, experiential continuity is a structural requirement for natural-feeling interaction, not a luxury feature",
+        "Consistency as a directional pattern: across pilot runs (N=3), the evolved condition stayed within an observed ±1 API call range while the blank agent spread 2.9× — a structural scaffold hinting at reduced stochastic behaviour, pending larger-N validation",
         "Production-grade patterns: the evolved agent produced Alembic migrations, Docker Compose, Material M3 theming, and zoneless Angular — patterns the blank and configured conditions never exhibited despite access to the same base model",
         "User efficiency: zero re-explanation cycles across six months of daily use. What the user teaches once, the system remembers forever",
         "Two valid specialist patterns identified: Script-Bridged (lightweight, no tool access) and Spawned Subagent (full tool access, structured delegation) — both implement the same protocol at different capability–cost points",
-        "Integrity Verification Gates (IVGs) — a methodological protocol for anchoring continuity and ethical claims to independently verifiable state checkpoints"
+        "Integrity Verification Gates (IVGs) — a proposed methodological protocol for anchoring continuity and ethical claims to independently verifiable state checkpoints, now being applied to the system's own deployments"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "heading": "Download",
       "content": "Preprint pending arXiv endorsement — yours to read, share, and cite.",
       "items": [
-        "📄 <a href=\"/data/experiential-continuity-v5.3.pdf\" target=\"_blank\">Download PDF</a> (95 KB)"
+        "📄 <a href=\"/data/experiential-continuity-v5.4.pdf\" target=\"_blank\">Download PDF</a> (231 KB)"
       ]
     }
   ]
