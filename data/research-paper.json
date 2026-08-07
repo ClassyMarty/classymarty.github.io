@@ -1,6 +1,6 @@
 {
   "title": "Experiential Continuity in Human-AI Interaction",
-  "subtitle": "A Single-Profile Multi-Tier Architecture — Martin Grobbelaar, July 2026",
+  "subtitle": "A Single-Profile Multi-Tier Architecture — Martin Grobbelaar, August 2026",
   "sections": [
     {
       "heading": "The Paper",
@@ -11,7 +11,7 @@
       "content": "",
       "items": [
         "The architecture independently arrived at organisational patterns — memory hierarchies, impasse-driven escalation, procedural chunking — that mirror decades of cognitive architecture research (Soar, ACT-R). Presented as an observation inviting falsification: if it holds, experiential continuity is a structural requirement for natural-feeling interaction, not a luxury feature",
-        "Consistency as a directional pattern: across pilot runs (N=3), the evolved condition stayed within an observed ±1 API call range while the blank agent spread 2.9× — a structural scaffold hinting at reduced stochastic behaviour, pending larger-N validation",
+        "Honest retraction, tested: the pilot's apparent API-call consistency (evolved within ±1 call across runs) did not survive a five-run replication — ranges overlapped (blank 25–73, evolved 31–70). What did replicate: production-grade output quality (Alembic, Docker, Material M3, dark mode) and the tightest output variance (41–49 files vs 26–72)",
         "Production-grade patterns: the evolved agent produced Alembic migrations, Docker Compose, Material M3 theming, and zoneless Angular — patterns the blank and configured conditions never exhibited despite access to the same base model",
         "User efficiency: zero re-explanation cycles across three months of daily use. What the user teaches once, the system remembers forever",
         "Two valid specialist patterns identified: Script-Bridged (lightweight, no tool access) and Spawned Subagent (full tool access, structured delegation) — both implement the same protocol at different capability–cost points",
@@ -30,7 +30,7 @@
       "heading": "Download",
       "content": "Preprint pending arXiv endorsement — yours to read, share, and cite.",
       "items": [
-        "📄 <a href=\"/data/experiential-continuity-v5.4.pdf\" target=\"_blank\">Download PDF</a> (231 KB)"
+        "📄 <a href=\"/data/experiential-continuity-v5.6.pdf\" target=\"_blank\">Download PDF</a> (309 KB)"
       ]
     }
   ]
