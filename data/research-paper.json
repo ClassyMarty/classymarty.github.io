@@ -1,10 +1,10 @@
 {
   "title": "Experiential Continuity in Human-AI Interaction",
-  "subtitle": "A Single-Profile Multi-Tier Architecture — Martin Grobbelaar, August 2026",
+  "subtitle": "A Single-Profile Multi-Tier Architecture — v5.7, Martin Grobbelaar, August 2026",
   "sections": [
     {
       "heading": "The Paper",
-      "content": "Most AI assistants treat every session as a fresh start. This paper argues that the real problem isn't model capability — it's experiential continuity: the user's investment in shaping the interaction should compound, not reset. We present a single-profile, multi-tier architecture where one persistent identity accumulates memory, skills, and interaction history across every session, delegating specialised work behind the scenes. A three-month case study demonstrates zero re-explanation cycles, accumulated skill growth, and machine-independent recovery. The paper's one-sentence claim: “This practitioner position paper proposes that experiential continuity — not just memory or delegation — is the missing dimension in human-AI interaction, and presents a single-profile multi-tier architecture validated through three months of daily use, with unplanned convergence toward cognitive-architecture patterns observed and offered for falsification.”"
+      "content": "An ordinary person with no technical background cannot use today's most capable AI systems without becoming the bridge between profiles, tools, and models — machinery they should never have to see. This paper argues that the real problem isn't model capability — it's experiential continuity: the user's investment in shaping the interaction should compound, not reset. We present a single-profile, multi-tier architecture where one persistent identity accumulates memory, skills, and interaction history across every session, delegating specialised work behind the scenes — the agent becomes the bridge so the user does not have to. A three-month case study demonstrates zero re-explanation cycles, accumulated skill growth, and machine-independent recovery. The paper's one-sentence claim: “This practitioner position paper proposes that experiential continuity — not just memory or delegation — is the missing dimension in human-AI interaction, and presents a single-profile multi-tier architecture validated through three months of daily use, with unplanned convergence toward cognitive-architecture patterns observed and offered for falsification.”"
     },
     {
       "heading": "Key Findings",
@@ -30,7 +30,8 @@
       "heading": "Download",
       "content": "Preprint pending arXiv endorsement — yours to read, share, and cite.",
       "items": [
-        "📄 <a href=\"/data/experiential-continuity-v5.6.pdf\" target=\"_blank\">Download PDF</a> (309 KB)"
+        "📄 <a href=\"/data/experiential-continuity-v5.7.pdf\" target=\"_blank\">Download PDF (v5.7)</a> (328 KB)",
+        "Archive: <a href=\"/data/experiential-continuity-v5.6.pdf\" target=\"_blank\">v5.6</a> · <a href=\"/data/experiential-continuity-v5.4.pdf\" target=\"_blank\">v5.4</a> · <a href=\"/data/experiential-continuity-v5.3.pdf\" target=\"_blank\">v5.3</a>"
       ]
     }
   ]
