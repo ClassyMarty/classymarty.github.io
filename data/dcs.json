@@ -12,19 +12,12 @@
     },
     {
       "heading": "What's Coming",
-      "content": "lesson plans that a teacher can pick up and run with in 30 minutes, no training needed",
+      "content": "The DCS Programming Course — 18 unplugged lessons (half a school year) teaching the skeleton every language shares: variables, conditionals, loops, functions, debugging. Written for middle school to high school classrooms where the only technology is a teacher's creativity. Here's where it stands:",
       "items": [
-        "The Programming Course — 18 unplugged lessons (half a school year) teaching the skeleton every language shares: variables, conditionals, loops, functions, debugging. Lessons 1 and 2 are written and ready to teach; the rest are being drafted right now",
-        "A Magic Forest board game that teaches sequencing and conditionals through storytelling",
-        "Complete Grade 1 and Grade R term plans mapped to the SA CAPS curriculum",
-        "Teacher training materials — because the best unplugged lesson falls flat if the facilitator isn't confident",
-        "Assessment frameworks that measure computational thinking without a written test",
-        "A community contribution model so other educators can adapt and share their own lessons"
+        "Lessons 1-2: complete and ready to teach — each with a lesson plan, teacher guide, and student handout",
+        "Lessons 3-18: drafted every night, reviewed before filing",
+        "Materials: everything a village already has — chalk, stones, bottle caps, string, paper"
       ]
-    },
-    {
-      "heading": "Stay Tuned",
-      "content": "I'm rebuilding, updating, and expanding this project from the ground up. Six years of new ideas, deeper understanding of how kids learn, and — honestly — a much better sense of what actually works in a real classroom. The early materials were promising. The next iteration is going to be something I'm genuinely proud to put my name on."
     }
   ]
 }
