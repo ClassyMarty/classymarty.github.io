@@ -1,6 +1,6 @@
 {
   "title": "Moth 🦋",
-  "subtitle": "Angular 22 + Material 3 M3 Dashboard — Lite (free) & Pro (paid).",
+  "subtitle": "Early-stage Angular 22 + Material 3 M3 dashboard template — watch this space.",
   "sections": [
     {
       "heading": "What Is This?",
@@ -37,12 +37,8 @@
       ]
     },
     {
-      "heading": "Get It",
-      "content": "",
-      "items": [
-        "Free Lite version: github.com/ClassyMarty/project_moth (main branch)",
-        "Pro version: gumroad.com/l/moth-pro — one-time purchase, lifetime updates"
-      ]
+      "heading": "Status",
+      "content": "Early-stage project — watch this space. The Lite and Pro versions are in the works, and links will appear here once they're live."
     }
   ]
 }

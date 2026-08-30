@@ -8,11 +8,14 @@
       "role": "Freelance tutor and content developer",
       "years": "2016 to present",
       "image": "",
-      "description": "Design and deliver tailored educational programs for international institutions and private clients.",
+      "featured": true,
+      "description": "Design and deliver tailored educational programs for international institutions and private clients — driven by a passion for teaching, skills transfer, and making education genuinely empowering.",
       "responsibilities": [
         "Design and deliver tailored educational programs for international institutions (ABC360-China, TuSpeaking-Spain, English Ninjas-Turkey) and private clients, specializing in adaptable learning solutions.",
         "Develop comprehensive curricula, including an extensive English program for China's YEWES Group, focused on practical application and measurable skill development.",
-        "Tutor diverse subjects including A-Levels/GCSE Mathematics & Physics, foundation mathematics, and English (IELTS, Business, Technical)."
+        "Tutor diverse subjects including A-Levels/GCSE Mathematics & Physics, foundation mathematics, and English (IELTS, Business, Technical).",
+        "Currently developing personal education projects, including Discite Computatrum Scientia (DCS) — a computational-thinking and computer-science programme that runs without computers, designed for rural learners with little or no technology access.",
+        "Authoring a research position paper on how schools and everyday users can embrace AI constructively rather than fear it — in preparation for workshop publication (IUI 2027)."
       ]
     },
     {
@@ -84,13 +87,28 @@
     }
   ],
   "education": [
-    { "qualification": "BSc in Computer Science (Final Year Completion Expected 2026)", "institution": "University of the People", "year": "2026" },
-    { "qualification": "Associate of Science Achieved", "institution": "University of the People", "year": "2026" },
-    { "qualification": "Diploma in Cognitive Behavioral Therapy", "institution": "Centre of Excellence", "year": "2023" },
-    { "qualification": "Google Project Management: Specialization", "institution": "Coursera", "year": "2023" },
-    { "qualification": "Certificate in Full Stack Development - Frontends with Bootstrap", "institution": "Coursera", "year": "2022" },
-    { "qualification": "120-Hour TEFL Certificate", "institution": "Cambridge", "year": "2018" },
-    { "qualification": "CCNA (Routing & Switching)", "institution": "IT Intellect", "year": "2010" },
+    { "qualification": "BSc in Computer Science — Graduated 2026, GPA 3.19", "institution": "University of the People", "year": "2026", "details": [
+      "19 computer science courses: programming (Python, Java), computer systems, databases, networking, operating systems, web & mobile development, data structures & algorithms, information retrieval, big data, computer graphics, and data mining & machine learning",
+      "4 mathematics courses: college algebra, calculus, discrete mathematics, and statistical inference"
+    ] },
+    { "qualification": "Associate of Science Achieved", "institution": "University of the People", "year": "2026", "details": [
+      "General education foundation: mathematics, humanities, social sciences, and natural sciences (art history, world literature, Greek & Roman civilization, philosophy, ethics, globalization, environmental science, psychology, economics)"
+    ] },
+    { "qualification": "Diploma in Cognitive Behavioral Therapy", "institution": "Centre of Excellence", "year": "2023", "details": [
+      "CBT principles — understanding and supporting mental wellbeing, relevant when working with learners of all ages"
+    ] },
+    { "qualification": "Google Project Management: Specialization", "institution": "Coursera", "year": "2023", "details": [
+      "Agile and traditional project management, budgeting, and stakeholder communication"
+    ] },
+    { "qualification": "Certificate in Full Stack Development - Frontends with Bootstrap", "institution": "Coursera", "year": "2022", "details": [
+      "Frontend development with HTML/CSS, JavaScript, and Bootstrap"
+    ] },
+    { "qualification": "120-Hour TEFL Certificate", "institution": "Cambridge", "year": "2018", "details": [
+      "Teaching English as a Foreign Language — lesson planning, classroom management, and teaching methodology"
+    ] },
+    { "qualification": "CCNA (Routing & Switching)", "institution": "IT Intellect", "year": "2010", "details": [
+      "Cisco Certified Network Associate — LAN/WAN routing, switching, and network fundamentals"
+    ] },
     { "qualification": "Microsoft Certified Professional (MCP)", "institution": "Microsoft", "year": "2008" },
     { "qualification": "Matriculation Exemption", "institution": "Gelofte Hoer School", "year": "1997" }
   ],

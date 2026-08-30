@@ -1,0 +1,15 @@
+{
+  "title": "Contact",
+  "subtitle": "Get in touch — I'd love to hear from you",
+  "sections": [
+    {
+      "heading": "Say Hello",
+      "content": "Whether you're a school looking for a tutor or curriculum developer, a business needing a hand, or just want to say hi — my inbox is always open.",
+      "items": [
+        "Email — mailto:ultrawyrm@gmail.com",
+        "GitHub — https://github.com/ClassyMarty",
+        "LinkedIn — https://linkedin.com/in/martingrobbelaar"
+      ]
+    }
+  ]
+}

@@ -3,6 +3,10 @@
   "subtitle": "From the bakkie to the cloud — empowering the tiny SMME",
   "sections": [
     {
+      "heading": "Current Status",
+      "content": "In testing — working toward a beta release."
+    },
+    {
       "heading": "The Dream",
       "content": "There's a whole world of small businesses out there running off a single laptop, a bakkie, and sheer grit. Field staff with clipboards, admin staff chasing paper trails, compliance living in a spreadsheet on one person's machine. One hard drive failure and the business stops. BearOut is the project that changes that — giving the smallest of SMEs a cloud backbone without the enterprise price tag or complexity."
     },
