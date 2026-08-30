@@ -8,12 +8,13 @@
     },
     {
       "heading": "The Vision",
-      "content": "Years ago I wrote that every child should learn computer science, not to become a programmer, but to become a creator — someone who understands the logic behind the tools they use, rather than just consuming whatever tech hands them. That philosophy hasn't aged a day. DSC is the practical manifestation of that idea: a full lesson plan series for Grades R through 1, built for the reality of South African classrooms where a teacher's creativity matters more than a computer lab budget."
+      "content": "Years ago I wrote that every child should learn computer science, not to become a programmer, but to become a creator — someone who understands the logic behind the tools they use, rather than just consuming whatever tech hands them. That philosophy hasn't aged a day. DSC is the practical manifestation of that idea: a full lesson plan series, built for the reality of South African classrooms where a teacher's creativity matters more than a computer lab budget. Revived in 2026 with a sharper scope: two pillars — computational thinking (decomposition, pattern recognition, abstraction, algorithms) and programming as a mindset, taught without a single computer — for middle school through high school, in classrooms where the only technology is a teacher's creativity. Next stop: Malawi."
     },
     {
       "heading": "What's Coming",
       "content": "lesson plans that a teacher can pick up and run with in 30 minutes, no training needed",
       "items": [
+        "The Programming Course — 18 unplugged lessons (half a school year) teaching the skeleton every language shares: variables, conditionals, loops, functions, debugging. Lessons 1 and 2 are written and ready to teach; the rest are being drafted right now",
         "A Magic Forest board game that teaches sequencing and conditionals through storytelling",
         "Complete Grade 1 and Grade R term plans mapped to the SA CAPS curriculum",
         "Teacher training materials — because the best unplugged lesson falls flat if the facilitator isn't confident",
