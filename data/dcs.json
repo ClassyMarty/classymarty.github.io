@@ -3,6 +3,16 @@
   "subtitle": "Computer science education that doesn't need a computer.",
   "sections": [
     {
+      "heading": "Current Status",
+      "content": "The course is written and reviewed; the storytelling phase is underway. All 18 lessons of the DCS Programming Course are complete — 54 documents in total, a lesson plan, a teacher guide, and a student handout for each — and every lesson now opens with a story from the Farmer Joe universe: a wacky farm where precise instructions, a bossy wife at the window, and a very literal cow carry the computer science. The canon map behind those stories passed an independent correctness review — zero wrong computer science found, and the reviewer's fixes are folded in. Next up: standalone concept-stories learners can retell at home, teacher training, and mechanical computing devices.",
+      "items": [
+        "18 lessons complete — plan, teacher guide, and student handout for each",
+        "Story-first: every concept lives in the Farmer Joe universe; the technical term arrives as the punchline",
+        "Canon map independently reviewed — zero wrong CS found, fixes applied and approved",
+        "Next: the story series, teacher training, mechanical computing devices"
+      ]
+    },
+    {
       "heading": "The Why",
       "content": "There are millions of children in rural communities with little or no technology access who will never touch a computer in a classroom. But computational thinking — decomposition, pattern recognition, abstraction, algorithms — doesn't need a screen. It needs a teacher who knows how to play the right games. DCS is a curriculum of unplugged activities: board games, card games, group challenges, storytelling, and physical movement. No computers required, every concept sticks. Because these learners aren't being prepared to survive the digital world as passive consumers — they're being prepared to shape it as innovators and problem solvers."
     },
@@ -11,12 +21,13 @@
       "content": "Years ago I wrote that every child should learn computer science, not to become a programmer, but to become a creator — someone who understands the logic behind the tools they use, rather than just consuming whatever tech hands them. That philosophy hasn't aged a day. DCS is the practical manifestation of that idea: a full lesson plan series built for the reality of rural classrooms where a teacher's creativity matters more than a computer lab budget. Revived in 2026 with a sharper scope: two pillars — computational thinking (decomposition, pattern recognition, abstraction, algorithms) and programming as a mindset, taught without a single computer — for middle school through high school, in classrooms where the only technology is a teacher's creativity. The world these learners are growing into is increasingly digital; the point is that they meet it as innovators and problem solvers, not as passive consumers."
     },
     {
-      "heading": "What's Coming",
-      "content": "The DCS Programming Course — 18 unplugged lessons (half a school year) teaching the skeleton every language shares: variables, conditionals, loops, functions, debugging. Written for middle school to high school classrooms where the only technology is a teacher's creativity. Here's where it stands:",
+      "heading": "What's Next",
+      "content": "The course skeleton is done — now it gets its stories. The Farmer Joe universe grows into a standalone series of concept-stories: cute, enduring stories that teach the CS ideas and go home with the learners. Then teacher training, so a teacher with no tech background can walk in and run a lesson with chalk, stones, and bottle caps. And further out, a small canon of mechanical computing devices from history — abacus, slide rule, stepped drums — buildable, affordable, and no electricity required.",
       "items": [
-        "Lessons 1-2: complete and ready to teach — each with a lesson plan, teacher guide, and student handout",
-        "Lessons 3-18: drafted every night, reviewed before filing",
-        "Materials: everything a village already has — chalk, stones, bottle caps, string, paper"
+        "The story series — standalone Farmer Joe concept-stories",
+        "Teacher training — one teacher, many grades: materials that ladder",
+        "Mechanical computing devices — abacus, slide rule, stepped drums",
+        "Materials stay village-sourced: chalk, stones, bottle caps, string, paper"
       ]
     }
   ]
