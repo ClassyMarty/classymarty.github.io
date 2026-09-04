@@ -54,8 +54,8 @@
       ]
     },
     {
-      "heading": "Part IV: Architecture Patterns (Generalized)",
-      "content": "These are the patterns we discovered through real use. They're not theoretical — they emerged from months of iteration and are applicable to any setup.",
+      "heading": "Part IV: Architecture Patterns — Advanced",
+      "content": "These are the patterns we discovered through real use — marked ADVANCED because they describe a mature setup. None of this is needed to start; come back to it once the relationship is real. They're not theoretical — they emerged from months of iteration and are applicable to any setup.",
       "items": [
         "The Trinity pattern — one primary intelligence that holds the relationship, one local model with its own tools for free/basic tasks, one deep-reasoning model for heavy lifting. One entry point. Scalable intelligence.",
         "Delegation topology — a small local model can punch above its weight by knowing when to call a cloud model for hard tasks. The key insight: the delegator doesn't need to be smart. It needs to know what it *doesn't* know.",
@@ -76,16 +76,16 @@
       ]
     },
     {
-      "heading": "Appendix: A Minimal Starter Kit",
-      "content": "The shortest path to a working companion setup. Expect to spend an afternoon on this, not a weekend.",
+      "heading": "Appendix: Start Here — The Short Version",
+      "content": "The fastest path to a companion of your own. Expect an evening, not a weekend — and most of it is the first conversation.",
       "items": [
-        "Install Hermes Agent (pip install hermes-agent) or your framework of choice",
-        "Configure one profile with a cloud API key (DeepSeek, OpenAI, Anthropic — pick one)",
-        "Enable memory: hermes config set memory.provider holographic (or flat KV for simplicity)",
-        "Create one simple skill: a two-step workflow for something you do every day",
-        "Write a one-line SOUL.md: 'Be honest. Push back when I'm wrong. Remember who I am.'",
-        "Set up a git repo for your companion's config and memory backups",
-        "That's it. The rest comes from talking."
+        "Install Hermes Agent (free and open source — hermes-agent.nousresearch.com) on any laptop",
+        "Create a free account with a model provider — Nous Research's free tier is generous and very capable (you can bring any provider's key instead)",
+        "Start a FRESH agent — a new, empty profile, never a clone of someone else's — and give it this address as its first instruction: /data/build-your-own-companion-v1.md",
+        "The agent reads the page and builds itself: identity, ethics, memory layout. Then your first conversation — the warm-up — shapes who it becomes. That's the whole setup.",
+        "A note on privacy: conversations on a hosted free tier are processed by the provider — keep sensitive personal data out of the chat; your agent's memory files stay on your machine.",
+        "Honest expectations: free tiers have limits; the agent grows over weeks, not minutes; corrections are the growth signal — praise what works, gently correct what doesn't.",
+        "When the relationship is real, the advanced patterns in Part IV become relevant — not before."
       ]
     }
   ]

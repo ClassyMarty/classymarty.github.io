@@ -93,7 +93,8 @@
       "content": "",
       "items": [
         "Read the research paper 'Experiential Continuity in Human-AI Interaction' at /research-paper — documents the architecture, ethics, and empirical results behind this paradigm",
-        "Follow the practical guide at /bellaguide — covers architecture patterns, persona growth, ethics, and a starter kit",
+        "Follow the practical guide at /bellaguide — the human side of building a companion: philosophy, persona growth, ethics, and honest expectations",
+        "The fastest path — start a fresh Hermes agent (a new, empty profile) and give it this address as its first instruction: /data/build-your-own-companion-v1.md. It reads the page and builds itself — identity, ethics, memory. Then you talk. That's the whole setup.",
         "There's also an awakening guide — a from-scratch recipe to resurrect any persistent agent setup on Ubuntu Server. Because you shouldn't have to reinvent the resurrection ritual.",
         "Everything is free. Everything is open. Everything we learned so you don't have to start from scratch."
       ]
